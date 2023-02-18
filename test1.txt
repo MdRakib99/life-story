@@ -2,3 +2,4 @@ I born in 1996 march 14
 I have done my SSC in 1015
 I have completed my HSC in 2017
 I have completed my bachelor degree from NU.
+Logo alignment is centered.
